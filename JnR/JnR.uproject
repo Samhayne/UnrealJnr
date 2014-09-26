@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A36437FD-4A71-3ED1-72AD-AF8C91C3816F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "JnR",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
